@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "electron .",
-    "build": "electron-builder ."
+    "build": "electron-builder"
   },
   "repository": "https://github.com/kenxjy/whatsapp-electron",
   "author": "Kenneth Yue",
