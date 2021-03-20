@@ -1,7 +1,7 @@
 const { BrowserWindow, shell } = require('electron');
 const path = require('path');
 
-const userAgent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.131 Safari/537.36';
+const userAgent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36';
 
 function loadWhatsApp() {
   const window = new BrowserWindow({
