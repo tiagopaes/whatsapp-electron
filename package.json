@@ -11,7 +11,7 @@
   "author": "Kenneth Yue",
   "license": "LGPL-3.0",
   "devDependencies": {
-    "electron": "^9.1.0",
-    "electron-builder": "^22.8.0"
+    "electron": "^12.0.1",
+    "electron-builder": "^22.10.5"
   }
 }
